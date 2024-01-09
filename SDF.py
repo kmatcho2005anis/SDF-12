@@ -271,7 +271,7 @@ logo=(f"""
 {G1}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 {G1}[{A}≈{G1}]{G1} DEVELOPER {A}➢{G1} {G1}J KMATCHO 
 {G1}[{A}≈{G1}]{G1} TOOLTYPE  {A}➢{G1} FILE {A}&{G1} RANDOM CLONE
-{G1}[{A}≈{G1}]{G1} VERSION   {A}➢{G1} V{G1}/{G1}5.0
+{G1}[{A}≈{G1}]{G1} VERSION   {A}➢{G1} V{G1}/{G1} 5.4
 {G1}[{A}≈{G1}]{G1} FACEBOOK  {A}➢{G1} Kmatcho Al-lhontkor
 {G1}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━""")
 #----------clear----------#
